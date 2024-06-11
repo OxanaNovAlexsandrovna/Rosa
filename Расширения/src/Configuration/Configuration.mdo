@@ -1218,6 +1218,7 @@
   <catalogs>Catalog.ДР_Должности</catalogs>
   <catalogs>Catalog.ДР_КонтактныеЛица</catalogs>
   <catalogs>Catalog.ДР_ДоставкаПрисоединенныеФайлы</catalogs>
+  <catalogs>Catalog.Тест</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
   <documents>Document.ОплатаОтПокупателя</documents>
   <documents>Document.ОплатаПоставщику</documents>
